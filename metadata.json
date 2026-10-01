@@ -1,0 +1,6 @@
+{
+  "name": "MIO - Luxury E-Commerce Platform",
+  "description": "A premium full-stack e-commerce platform with Express REST API, Supabase PostgreSQL, and React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
